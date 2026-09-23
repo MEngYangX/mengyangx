@@ -16,11 +16,11 @@
   </a>
 </p>
 
+## 🧑‍💻 About Me / 关于我
+
 <a href="https://github.com/MEngYangX?tab=repositories">
   <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api?username=MEngYangX&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="MEng_YangX's GitHub Stats">
 </a>
-
-## 🧑‍💻 About Me / 关于我
 
 - 🔭 I'm currently working on **[PracLab](https://github.com/MEngYangX/PracLab)** — a practice-mode plugin for Counter-Strike 2 built on [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 - 🌱 I'm currently learning deep learning & computer vision（正在学习深度学习与计算机视觉）

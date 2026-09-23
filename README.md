@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,pytorch,git,md&perline=3" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,pytorch,git,md&perline=8" alt="Tech Stack">
   </a>
 </p>
 

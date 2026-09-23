@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://github.com/MEngYangX?tab=repositories">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=MEngYangX&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="MEng_YangX's GitHub Stats">
+  <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api?username=MEngYangX&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="MEng_YangX's GitHub Stats">
 </a>
 
 ## 🧑‍💻 About Me / 关于我
